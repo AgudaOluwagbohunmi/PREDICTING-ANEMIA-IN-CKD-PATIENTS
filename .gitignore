@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data (download from the link in the README)
+
+kidney_disease.csv
