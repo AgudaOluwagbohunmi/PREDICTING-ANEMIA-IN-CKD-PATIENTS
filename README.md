@@ -100,9 +100,9 @@ Project structure
 └── [README.md](README.md)
 
 
-How to run
-Clone the repo and install the libraries:
+How to run:
 
+Clone the repo and install the libraries:
  git clone <your-repo-url>
 cd <repo-folder>
 pip install -r requirements.txt
@@ -110,22 +110,15 @@ pip install -r requirements.txt
 
 Download the dataset from the Kaggle page. A free Kaggle account is needed. Save the CSV as kidney_disease.csv in the project folder. 
 Open the notebook and choose Restart & Run All:
-
  jupyter notebook ANEMIA_PREDICTION.ipynb
 
 
-
-Ideas for next steps
-Test on data from another hospital.
-Add sex, CKD stage and medications.
-Try a model that is allowed to say "not sure" for borderline patients.
-Look at which features matter most in the Logistic Regression.
-
-Acknowledgements
+ACKNOWLEDGEMENTS
 Thanks to Nitesh Yadav for sharing the dataset on Kaggle.
 The data originally comes from the UCI Machine Learning Repository (Chronic Kidney Disease dataset). Please cite the original authors if you reuse it.
 
-About
+
+ABOUT
 Built by Aguda Oluwagbohunmi as a learning project in data science for healthcare.
 Questions or feedback are welcome. Please open an issue.
 
