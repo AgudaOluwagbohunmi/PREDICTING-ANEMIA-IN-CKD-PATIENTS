@@ -9,7 +9,7 @@ Can the other routine markers (kidney function, urine tests, blood chemistry and
 The answer so far is: only modestly.
 
 Dataset
-Where I got it: a copy shared on Kaggle by [Nitesh Yadav ]:Chronic KIdney Disease dataset. Accessed on [29th August,2026]. Licence on Kaggle: Unknown          
+Where I got it: a copy shared on Kaggle by Nitesh Yadav :[Chronic KIdney Disease dataset](https://www.kaggle.com/datasets/mansoordaku/ckdisease?select=kidney_disease.csv). Accessed on [29th August,2026]. Licence on Kaggle: Unknown          
 Size: 400 patients, about 25 columns (lab values, urine tests, symptoms and history).
 Target: ane (anemia: yes or no).
 The data file is not included in this repo. See How to run to download it.
