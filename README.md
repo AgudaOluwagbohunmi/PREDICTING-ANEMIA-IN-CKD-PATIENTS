@@ -90,7 +90,7 @@ Missing information. No sex (so no eGFR), no CKD stage, no iron results and no m
 A simple test exists. Doctors check anemia with hemoglobin. This model only explores what the other markers can tell us.
 
 Project structure
-├── ANEMIA_PREDICTION.ipynb    # the full analysis
+├── [ANEMIA_PREDICTION.ipynb](ANEMIA_PREDICTION.ipynb)    # the full analysis
 ├── model_comparison.png       # results chart
 ├── requirements.txt           # libraries needed
 └── README.md
