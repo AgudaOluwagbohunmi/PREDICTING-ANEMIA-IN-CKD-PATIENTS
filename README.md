@@ -114,11 +114,13 @@ Open the notebook and choose Restart & Run All:
 
 
 ACKNOWLEDGEMENTS
+
 Thanks to Nitesh Yadav for sharing the dataset on Kaggle.
 The data originally comes from the UCI Machine Learning Repository (Chronic Kidney Disease dataset). Please cite the original authors if you reuse it.
 
 
 ABOUT
+
 Built by Aguda Oluwagbohunmi as a learning project in data science for healthcare.
 Questions or feedback are welcome. Please open an issue.
 
